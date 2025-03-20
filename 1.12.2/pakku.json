@@ -1,0 +1,7 @@
+{
+    "name": "1.12.2-mods",
+    "version": "0.0.1",
+    "overrides": [
+        "config"
+    ]
+}

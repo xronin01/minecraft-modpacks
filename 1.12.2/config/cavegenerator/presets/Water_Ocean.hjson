@@ -1,0 +1,24 @@
+{
+  enabled: true
+  biomes: {
+    names: [
+      minecraft:ocean
+      minecraft:deep_ocean
+      minecraft:beaches
+      minecraft:stone_beach
+      minecraft:cold_beach
+    ]
+  }
+  layers: [
+    {
+      state: simpledifficulty:saltwater
+      height: [ 0, 255 ]
+      matchers: minecraft:water
+      ceiling: {
+        seed: 1
+        dummy: true
+        cache: true
+      }
+    }
+  ]
+}

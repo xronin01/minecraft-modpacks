@@ -1,0 +1,1 @@
+{"maxAge":15,"worldGen":["0 | type:ocean | 0.5 | 14 | 64","0 | type:beach | 0.5 | 14 | 64"],"drops":["this | 1.0"],"soil":["material:ground","material:sand","material:grass","material:clay","material:rock"],"compatibleFluids":["saltwater"],"hasOffset":false}

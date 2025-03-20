@@ -1,0 +1,8 @@
+{
+    "name": "1.7.10-Mods",
+    "version": "0.0.1",
+    "overrides": [
+        "config",
+        "scripts"
+    ]
+}

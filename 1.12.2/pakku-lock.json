@@ -429,7 +429,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Bundles-1.2.2.jar",
+                    "file_name": "Bundles-1.2.3.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -437,18 +437,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6056/957/Bundles-1.2.2.jar",
-                    "id": "6056957",
+                    "url": "https://edge.forgecdn.net/files/6339/953/Bundles-1.2.3.jar",
+                    "id": "6339953",
                     "parent_id": "902861",
                     "hashes": {
-                        "sha1": "b3b773d0a7405593daf1645c334ef005710dd6d7",
-                        "md5": "4556ef5ba880ca04e3c52e060d3ce285"
+                        "sha1": "984677647178be0f8fe7f826736098599350b90c",
+                        "md5": "18cc321b5b3bbe94b22c58dc93a34499"
                     },
                     "required_dependencies": [
                         "419286"
                     ],
-                    "size": 208230,
-                    "date_published": "2025-01-05T18:55:33.127Z"
+                    "size": 208171,
+                    "date_published": "2025-03-24T13:38:33.043Z"
                 }
             ]
         },
@@ -505,7 +505,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "censoredasm5.26.jar",
+                    "file_name": "censoredasm5.28.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -513,16 +513,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6302/993/censoredasm5.26.jar",
-                    "id": "6302993",
+                    "url": "https://edge.forgecdn.net/files/6333/774/censoredasm5.28.jar",
+                    "id": "6333774",
                     "parent_id": "460609",
                     "hashes": {
-                        "sha1": "33a2d7aa690d3d9733efdc86b221535c0f9aa132",
-                        "md5": "b07db98ec8d2faaac3c0de46042c659d"
+                        "sha1": "8cd0805a74698313594506e8b2830de086c055c1",
+                        "md5": "3601901368ce01f8352a1fc384312dd1"
                     },
                     "required_dependencies": [],
-                    "size": 1654305,
-                    "date_published": "2025-03-14T12:42:51.090Z"
+                    "size": 1657503,
+                    "date_published": "2025-03-23T02:16:18.367Z"
                 }
             ]
         },
@@ -1173,7 +1173,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "flare-0.4.0.jar",
+                    "file_name": "flare-0.5.0.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1181,19 +1181,19 @@
                         "forge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/rWzXKfPV/versions/WQfh8odD/flare-0.4.0.jar",
-                    "id": "WQfh8odD",
+                    "url": "https://cdn.modrinth.com/data/rWzXKfPV/versions/sIa4ciQb/flare-0.5.0.jar",
+                    "id": "sIa4ciQb",
                     "parent_id": "rWzXKfPV",
                     "hashes": {
-                        "sha512": "78a1dea9b5c83210e04b6729e5cf6a2fbab371b1c9cc935d0d219baff8e48043268fa3eda4e220a1237575e64871e521d47e4ade56b43786bc843eb843b9af0b",
-                        "sha1": "08e9a92565f527ec8254577366db4c4cb52fbe6b"
+                        "sha512": "91893507ca4b4697f22cebe621f8e437035823ea16cb1ea9b73c996e4e2e1faea3e01ff37a49da1cead8522cf800bc6d406ae19cbef595cd094b6fd633ffdabe",
+                        "sha1": "76853c8c1baabd1f79c5d9528db8e5e89b34b996"
                     },
                     "required_dependencies": [
                         "G1ckZuWK",
                         "Bnsrfd1o"
                     ],
-                    "size": 2241666,
-                    "date_published": "2025-02-12T02:48:30.480040Z"
+                    "size": 2307499,
+                    "date_published": "2025-03-25T16:29:37.802147Z"
                 }
             ]
         },
@@ -1213,7 +1213,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Fluidlogged-API-v3.0.4-mc1.12.2.jar",
+                    "file_name": "Fluidlogged-API-v3.0.5-mc1.12.2.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1221,16 +1221,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vVXPbodS/versions/aOPcSBT2/Fluidlogged-API-v3.0.4-mc1.12.2.jar",
-                    "id": "aOPcSBT2",
+                    "url": "https://cdn.modrinth.com/data/vVXPbodS/versions/5sDPtq9G/Fluidlogged-API-v3.0.5-mc1.12.2.jar",
+                    "id": "5sDPtq9G",
                     "parent_id": "vVXPbodS",
                     "hashes": {
-                        "sha512": "a373cf77c8f33e5c86bc15e9cf4b5435646b7f5d1ec5c2a2e382bca1ffc2f35abf3f419b23a21453235f1895961515457e1bc4aa962589e3bee57bce10e21992",
-                        "sha1": "ef46269f522d3cd8f2c8c624e771c00c05a601f4"
+                        "sha512": "602b581d4d78293526a4cb00e81be425ed658daddea997b17affde06025f713e149b57b3bc71878d11585f125226a89b81cc345a31e6353538e7d956ad7c1240",
+                        "sha1": "d618c71a2f8372438fa5187c0e33d60cd659a62c"
                     },
                     "required_dependencies": [],
-                    "size": 734122,
-                    "date_published": "2025-03-08T01:34:44.964107Z"
+                    "size": 741566,
+                    "date_published": "2025-03-27T01:25:20.113507Z"
                 }
             ]
         },
@@ -1322,7 +1322,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Forgelin-Continuous-2.1.10.0.jar",
+                    "file_name": "Forgelin-Continuous-2.1.20.0.jar",
                     "mc_versions": [
                         "1.12",
                         "1.12.1",
@@ -1332,16 +1332,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1mPcAmuy/versions/d3s7Qwfd/Forgelin-Continuous-2.1.10.0.jar",
-                    "id": "d3s7Qwfd",
+                    "url": "https://cdn.modrinth.com/data/1mPcAmuy/versions/zMUUrycc/Forgelin-Continuous-2.1.20.0.jar",
+                    "id": "zMUUrycc",
                     "parent_id": "1mPcAmuy",
                     "hashes": {
-                        "sha512": "c5b8d95235c98f7f93bdec7e7ca52a2d54211568043f4765981c095c81049062a95b99c89b6cadab0132e288c36d3d8d07ed8c4f9e5fc5d93588e056b3a4aa05",
-                        "sha1": "bbd95b1d616fdb6090b0da0c96f36d2e8081b1d5"
+                        "sha512": "14e524f425e782548ffb5a0b0b820af8d13cbc7f2e0e33e0ea7cc56c21e231b1e79c36d7f017014fb7debd09f9dc9e7cb03da775f58e81f3e3076cf45d7c9f82",
+                        "sha1": "3bbbf6ece06543650ac3588f875cf661cd328993"
                     },
                     "required_dependencies": [],
-                    "size": 7054591,
-                    "date_published": "2025-01-31T08:21:45.623067Z"
+                    "size": 7101047,
+                    "date_published": "2025-03-28T13:24:23.256314Z"
                 }
             ]
         },
@@ -1484,7 +1484,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "groovyscript-1.2.1.jar",
+                    "file_name": "groovyscript-1.2.2.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1492,18 +1492,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/GJaDRTrb/versions/YG7iXEd7/groovyscript-1.2.1.jar",
-                    "id": "YG7iXEd7",
+                    "url": "https://cdn.modrinth.com/data/GJaDRTrb/versions/90roqZQd/groovyscript-1.2.2.jar",
+                    "id": "90roqZQd",
                     "parent_id": "GJaDRTrb",
                     "hashes": {
-                        "sha512": "9c8e032c7a52e95e6556744c3f91af982c48f3070448b2d8bd8b4cb8ecd7110433b0e9d8a44b837f45a08175e22c213c27fa05bceaac527e517e8ea1f033ffa8",
-                        "sha1": "b6657bd92ee41e8702b802ef7ea430b72347e8c0"
+                        "sha512": "6d5bcd8eac2d2ae78c5ddc51d0083b0d4e2a790a20c9a891852cd120df0057bc4e6d487ce0d10b99ae2a52b8cd6b22a2005b13e5a1e4ca4a0e54259c430d7630",
+                        "sha1": "a5839de778c8044f44da113cfbd9b0778e5e3da5"
                     },
                     "required_dependencies": [
                         "G1ckZuWK"
                     ],
-                    "size": 13549618,
-                    "date_published": "2025-03-17T10:51:04.250381Z"
+                    "size": 13550996,
+                    "date_published": "2025-03-21T19:11:35.097682Z"
                 }
             ]
         },
@@ -2167,7 +2167,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "!mixinbooter-10.5.jar",
+                    "file_name": "!mixinbooter-10.6.jar",
                     "mc_versions": [
                         "1.8",
                         "1.8.1",
@@ -2198,16 +2198,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/G1ckZuWK/versions/UGyawBq4/!mixinbooter-10.5.jar",
-                    "id": "UGyawBq4",
+                    "url": "https://cdn.modrinth.com/data/G1ckZuWK/versions/jxYM6zXi/!mixinbooter-10.6.jar",
+                    "id": "jxYM6zXi",
                     "parent_id": "G1ckZuWK",
                     "hashes": {
-                        "sha512": "981276a5a40cd0197adabf01da70cc2cb17bc387e71064fbce7a5c94e49fd73bf4c4be17dc64b1206444d5ec9a54f2b604fce7721ef0aa76636ea3b4daa569d5",
-                        "sha1": "b54a69ed72273227d94c419d3b040ace7e0e0c68"
+                        "sha512": "49a38e541bb8f3ce12b68db68d8ea84c6ca1b84eebcce1970bd63ce0b5d0df4c35b3290117a6ab3b41d8c46df0868421f6c4088ac5b7f3b4f7b902c5e890c5bd",
+                        "sha1": "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3"
                     },
                     "required_dependencies": [],
-                    "size": 2380953,
-                    "date_published": "2025-02-04T10:58:12.130270Z"
+                    "size": 2382989,
+                    "date_published": "2025-03-25T14:27:19.395446Z"
                 }
             ]
         },
@@ -2226,7 +2226,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "DrZharks-MoCreatures-Extended-12.4.6.2.jar",
+                    "file_name": "DrZharks-MoCreatures-Extended-12.4.7.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -2234,16 +2234,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6150/903/DrZharks-MoCreatures-Extended-12.4.6.2.jar",
-                    "id": "6150903",
+                    "url": "https://edge.forgecdn.net/files/6327/889/DrZharks-MoCreatures-Extended-12.4.7.jar",
+                    "id": "6327889",
                     "parent_id": "867351",
                     "hashes": {
-                        "sha1": "ec5c011626d26cb96879f1708c2a529f412d7719",
-                        "md5": "4e9878d8fefdf7cdf1e60b8d759418cf"
+                        "sha1": "7bb896171ea613c06682c6303bba0f9a64b5c0f9",
+                        "md5": "5e3e6dd6be1451874b14efd1149ba6e1"
                     },
                     "required_dependencies": [],
-                    "size": 24050469,
-                    "date_published": "2025-02-02T17:57:35.437Z"
+                    "size": 24055062,
+                    "date_published": "2025-03-21T09:23:53.053Z"
                 }
             ]
         },
@@ -2983,7 +2983,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "ReachFix-1.12.2-1.1.2.jar",
+                    "file_name": "ReachFix-1.12.2-1.1.3.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -2991,16 +2991,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6325/73/ReachFix-1.12.2-1.1.2.jar",
-                    "id": "6325073",
+                    "url": "https://edge.forgecdn.net/files/6327/271/ReachFix-1.12.2-1.1.3.jar",
+                    "id": "6327271",
                     "parent_id": "556777",
                     "hashes": {
-                        "sha1": "e0e2dfb3dc706c5ff2c79dede2ffb1274a318912",
-                        "md5": "03140af7292bf5cee6eb0577cd49e7c9"
+                        "sha1": "d9994c089b4f30de9f7be0690624a535716456d1",
+                        "md5": "e3e74a897429572caca5e27592c3979a"
                     },
                     "required_dependencies": [],
-                    "size": 97992,
-                    "date_published": "2025-03-20T11:43:43.880Z"
+                    "size": 98093,
+                    "date_published": "2025-03-21T01:45:43.337Z"
                 }
             ]
         },
@@ -3293,7 +3293,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "theonesmeagle-1.12-1.0.9.jar",
+                    "file_name": "TheOneSmeagle-1.12-1.1.0.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -3301,16 +3301,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Pw6vHeGo/versions/dbqoasB5/theonesmeagle-1.12-1.0.9.jar",
-                    "id": "dbqoasB5",
+                    "url": "https://cdn.modrinth.com/data/Pw6vHeGo/versions/nQBQRtSt/TheOneSmeagle-1.12-1.1.0.jar",
+                    "id": "nQBQRtSt",
                     "parent_id": "Pw6vHeGo",
                     "hashes": {
-                        "sha512": "206de7fe8c76d3db8f60d5f0248cf6a786326ba6b54663ba3fbf4c5a6abc6d7070ca81a35c5d88f2a7b2e6fe69974ca739e81b66eb65c55c7af31b0c2884157f",
-                        "sha1": "e1097e410721d96a083c8dbff30182ae464ca906"
+                        "sha512": "40aaf322666a3d67c97e1642d647c9418ecce888ec5949a883bdca2fad30f2faea09ab231ea211cc8f6665f47d9153e13f2a1c5f29846ec59fd29464399d3355",
+                        "sha1": "6898fb8995cab72ece05f126353867eee73ad084"
                     },
                     "required_dependencies": [],
-                    "size": 344799,
-                    "date_published": "2025-03-18T05:06:08.006384Z"
+                    "size": 342863,
+                    "date_published": "2025-03-31T04:23:24.335973Z"
                 }
             ]
         },

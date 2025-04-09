@@ -47,13 +47,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ae2thing-v1.1.21.jar",
+                    "file_name": "ae2thing-v1.1.23.jar",
                     "release_type": "release",
-                    "url": "https://github.com/asdflj/AE2Things/releases/download/v1.1.21/ae2thing-v1.1.21.jar",
-                    "id": "243263882",
+                    "url": "https://github.com/asdflj/AE2Things/releases/download/v1.1.23/ae2thing-v1.1.23.jar",
+                    "id": "244190972",
                     "parent_id": "782443514",
-                    "size": 957901,
-                    "date_published": "2025-04-03T16:31:44Z"
+                    "size": 966878,
+                    "date_published": "2025-04-07T08:50:04Z"
                 }
             ]
         },
@@ -2384,13 +2384,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "OpenBlocks-1.11.3-GTNH.jar",
+                    "file_name": "OpenBlocks-1.11.5-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.11.3-GTNH/OpenBlocks-1.11.3-GTNH.jar",
-                    "id": "223370322",
+                    "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.11.5-GTNH/OpenBlocks-1.11.5-GTNH.jar",
+                    "id": "244776847",
                     "parent_id": "192599264",
-                    "size": 2781753,
-                    "date_published": "2025-01-25T12:48:49Z"
+                    "size": 2781830,
+                    "date_published": "2025-04-09T03:32:41Z"
                 }
             ]
         },
@@ -2409,13 +2409,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "OpenComputers-1.11.12-GTNH.jar",
+                    "file_name": "OpenComputers-1.11.13-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.12-GTNH/OpenComputers-1.11.12-GTNH.jar",
-                    "id": "239826733",
+                    "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.13-GTNH/OpenComputers-1.11.13-GTNH.jar",
+                    "id": "244778569",
                     "parent_id": "183108860",
-                    "size": 16480176,
-                    "date_published": "2025-03-22T14:27:57Z"
+                    "size": 16480496,
+                    "date_published": "2025-04-09T03:38:52Z"
                 }
             ]
         },
@@ -2987,13 +2987,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ThaumicTinkerer-2.11.7.jar",
+                    "file_name": "ThaumicTinkerer-2.11.8.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.7/ThaumicTinkerer-2.11.7.jar",
-                    "id": "239274459",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.8/ThaumicTinkerer-2.11.8.jar",
+                    "id": "244683879",
                     "parent_id": "54576486",
-                    "size": 2032634,
-                    "date_published": "2025-03-20T14:55:43Z"
+                    "size": 2033965,
+                    "date_published": "2025-04-08T21:26:26Z"
                 }
             ]
         },
@@ -3097,13 +3097,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "TConstruct-1.13.15-GTNH.jar",
+                    "file_name": "TConstruct-1.13.18-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.15-GTNH/TConstruct-1.13.15-GTNH.jar",
-                    "id": "242962448",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.18-GTNH/TConstruct-1.13.18-GTNH.jar",
+                    "id": "244775837",
                     "parent_id": "53168432",
-                    "size": 5728762,
-                    "date_published": "2025-04-02T17:12:10Z"
+                    "size": 5730101,
+                    "date_published": "2025-04-09T03:29:03Z"
                 }
             ]
         },

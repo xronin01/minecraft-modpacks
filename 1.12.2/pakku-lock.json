@@ -218,7 +218,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ArmoredArms-v1.2.4-release.jar",
+                    "file_name": "ArmoredArms-v1.2.5-release.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -226,16 +226,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/utfvkRlv/versions/Z5jhGdBO/ArmoredArms-v1.2.4-release.jar",
-                    "id": "Z5jhGdBO",
+                    "url": "https://cdn.modrinth.com/data/utfvkRlv/versions/ZtGWqviA/ArmoredArms-v1.2.5-release.jar",
+                    "id": "ZtGWqviA",
                     "parent_id": "utfvkRlv",
                     "hashes": {
-                        "sha512": "9a9c4a14f932b7a7719c93cccf1baa9a7cb1976c494e58cb22cf21e7e0ee69fc194dd1a1b051cb7cc687717ca27b90da8971cf60f9061b485cd4aed367d100e3",
-                        "sha1": "95ecf3fe51e9edbc657fee6c3d7b4a961d92dedb"
+                        "sha512": "dcaea66a1cff82ab0ef9927c843a3c0e8cc05c3dce3444aea96c31b06c05def8d03cf4d5c297de8367da10b71d71f66b38b64f568e27870ceaaa7cef436c4772",
+                        "sha1": "83474e205db8e632e430aa4ddf8ec6480c69eded"
                     },
                     "required_dependencies": [],
-                    "size": 51231,
-                    "date_published": "2025-09-05T21:19:11.854954Z"
+                    "size": 53317,
+                    "date_published": "2025-09-07T17:44:33.428653Z"
                 }
             ]
         },
@@ -1221,7 +1221,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "endermodpacktweaks-0.5.10.jar",
+                    "file_name": "endermodpacktweaks-0.5.11.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1229,20 +1229,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pu32P5O6/versions/TRIDaknX/endermodpacktweaks-0.5.10.jar",
-                    "id": "TRIDaknX",
+                    "url": "https://cdn.modrinth.com/data/pu32P5O6/versions/q9iSkNGw/endermodpacktweaks-0.5.11.jar",
+                    "id": "q9iSkNGw",
                     "parent_id": "pu32P5O6",
                     "hashes": {
-                        "sha512": "f8fa4f0b096161a0fdb3239cde6d7af13defbf031c30944e0c881cb3b7d0fc9efd2709672b404dfd3a1c11c9a1d53df6859b8a9b9be1a83653f95c486bc992ed",
-                        "sha1": "715317203a38c74c231c713c7f2d34d1ac1a042d"
+                        "sha512": "2e52b5f353f8946127e0fe6d511a2236f883f98dbde5803a61000c100547b030b4ba23d235f34c233f81ddd321851c87bc9b17779782f55d77f73644d7cbae65",
+                        "sha1": "9801a73bd35843668ebaf9da0ba2237eba204c78"
                     },
                     "required_dependencies": [
-                        "Bnsrfd1o",
                         "G1ckZuWK",
+                        "Bnsrfd1o",
                         "oTG4U7ur"
                     ],
-                    "size": 682308,
-                    "date_published": "2025-07-26T13:03:06.479206Z"
+                    "size": 696898,
+                    "date_published": "2025-09-07T16:47:04.436847Z"
                 }
             ]
         },
@@ -1527,7 +1527,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Forgelin-Continuous-2.2.0.0.jar",
+                    "file_name": "Forgelin-Continuous-2.2.20.0.jar",
                     "mc_versions": [
                         "1.12",
                         "1.12.1",
@@ -1537,16 +1537,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1mPcAmuy/versions/CWKmwkAL/Forgelin-Continuous-2.2.0.0.jar",
-                    "id": "CWKmwkAL",
+                    "url": "https://cdn.modrinth.com/data/1mPcAmuy/versions/xeJ3NGAX/Forgelin-Continuous-2.2.20.0.jar",
+                    "id": "xeJ3NGAX",
                     "parent_id": "1mPcAmuy",
                     "hashes": {
-                        "sha512": "0dc2bdeeb95eac2238498f9c937944efa01307646ec5b97d91644b10362b7f17e1c2b8902a1809ff9f3407d1cc5850e4457c36e4212fe1b871cd82cd1e94cd19",
-                        "sha1": "9d74fb4c826035c2ccc873284b2f4c4f5725bc35"
+                        "sha512": "1dba6748bc5a149107cd0ad7665d6fd9114b4608103c481c96b32e35cc6f6f1fb30a85deb32f056db17c02d30aebb2bf4bccf4d619ca57ebc01e4aedb4a8c200",
+                        "sha1": "064098d130e18a364706f1c4a6c9b27b435acd8a"
                     },
                     "required_dependencies": [],
-                    "size": 7363153,
-                    "date_published": "2025-07-12T15:58:55.317287Z"
+                    "size": 7423721,
+                    "date_published": "2025-09-10T15:52:16.378304Z"
                 }
             ]
         },
@@ -2580,7 +2580,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "DrZharks-MoCreatures-Extended-12.4.7.jar",
+                    "file_name": "DrZharks-MoCreatures-Extended-12.4.8.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -2588,16 +2588,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6327/889/DrZharks-MoCreatures-Extended-12.4.7.jar",
-                    "id": "6327889",
+                    "url": "https://edge.forgecdn.net/files/6984/289/DrZharks-MoCreatures-Extended-12.4.8.jar",
+                    "id": "6984289",
                     "parent_id": "867351",
                     "hashes": {
-                        "sha1": "7bb896171ea613c06682c6303bba0f9a64b5c0f9",
-                        "md5": "5e3e6dd6be1451874b14efd1149ba6e1"
+                        "sha1": "1d837d5327532d163a0e2406870e106178ab1024",
+                        "md5": "27e8992bdf2aa61edd23f86dc590e227"
                     },
                     "required_dependencies": [],
-                    "size": 24055062,
-                    "date_published": "2025-03-21T09:23:53.053Z"
+                    "size": 24043533,
+                    "date_published": "2025-09-10T20:52:31.110Z"
                 }
             ]
         },
@@ -2811,7 +2811,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "MutantCreaturesLegacy-1.12.2-1.0.2.jar",
+                    "file_name": "MutantCreaturesLegacy-1.12.2-1.0.3.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -2819,16 +2819,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6820/385/MutantCreaturesLegacy-1.12.2-1.0.2.jar",
-                    "id": "6820385",
+                    "url": "https://edge.forgecdn.net/files/6985/832/MutantCreaturesLegacy-1.12.2-1.0.3.jar",
+                    "id": "6985832",
                     "parent_id": "1297312",
                     "hashes": {
-                        "sha1": "de92cfec9f0f7b38f0c078f762d425312804ea60",
-                        "md5": "67594e167e88dd601cc0d020c5c02411"
+                        "sha1": "22e2e1636f0459e3482e3d78c02c784bd6da3950",
+                        "md5": "3676bd6878018fb9b64e9a9cd969f43c"
                     },
                     "required_dependencies": [],
-                    "size": 1216888,
-                    "date_published": "2025-07-28T09:12:44.740Z"
+                    "size": 1585106,
+                    "date_published": "2025-09-11T10:39:40.013Z"
                 }
             ]
         },
@@ -2847,7 +2847,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "natura-1.12.2-4.3.4.jar",
+                    "file_name": "natura-legacy-1.12.2-4.4.0.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -2855,18 +2855,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6396/232/natura-1.12.2-4.3.4.jar",
-                    "id": "6396232",
+                    "url": "https://edge.forgecdn.net/files/6982/881/natura-legacy-1.12.2-4.4.0.jar",
+                    "id": "6982881",
                     "parent_id": "1116420",
                     "hashes": {
-                        "sha1": "36e61866b622dc417e77981df2a80b964dba60ac",
-                        "md5": "b6c6c2e1886bf6b511a0848ed91cb85d"
+                        "sha1": "efb2328fa9252564fd5bb6566e2d3a52de6d6784",
+                        "md5": "4de7a70b783f384d60044d30b498a549"
                     },
                     "required_dependencies": [
                         "74924"
                     ],
-                    "size": 1260064,
-                    "date_published": "2025-04-07T18:30:19.240Z"
+                    "size": 1242893,
+                    "date_published": "2025-09-10T12:25:38.377Z"
                 }
             ]
         },
@@ -3013,6 +3013,42 @@
                     "required_dependencies": [],
                     "size": 16630725,
                     "date_published": "2025-06-02T15:37:30.514021Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Zu56bEidmEPlJqUM",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "openprinter"
+            },
+            "name": {
+                "curseforge": "OpenPrinter"
+            },
+            "id": {
+                "curseforge": "225127"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "OpenPrinter-1.12.2-0.1.0.21.jar",
+                    "mc_versions": [
+                        "1.12.2"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6985/296/OpenPrinter-1.12.2-0.1.0.21.jar",
+                    "id": "6985296",
+                    "parent_id": "225127",
+                    "hashes": {
+                        "sha1": "155a8dda9addf28415c15c6f4086422ce016049f",
+                        "md5": "bbe577f2a2c80dc40c58b66e9b656930"
+                    },
+                    "required_dependencies": [],
+                    "size": 262164,
+                    "date_published": "2025-09-11T05:58:56.260Z"
                 }
             ]
         },

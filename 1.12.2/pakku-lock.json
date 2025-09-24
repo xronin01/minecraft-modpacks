@@ -96,7 +96,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "ae2wut-1.1.7.jar",
+                    "file_name": "ae2wut-1.2.4.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -104,19 +104,19 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6949/82/ae2wut-1.1.7.jar",
-                    "id": "6949082",
+                    "url": "https://edge.forgecdn.net/files/7024/967/ae2wut-1.2.4.jar",
+                    "id": "7024967",
                     "parent_id": "1196988",
                     "hashes": {
-                        "sha1": "47bce4ede60b5dd95b205e9b7236b050b7476d75",
-                        "md5": "5ad4049255c1ce14397ea1924299dcd3"
+                        "sha1": "5d1171556715c5b21b663c199affd9e3cdea3531",
+                        "md5": "a6e893eb39596375f18474e3ac10639d"
                     },
                     "required_dependencies": [
-                        "419286",
-                        "570458"
+                        "570458",
+                        "419286"
                     ],
-                    "size": 79026,
-                    "date_published": "2025-08-31T16:49:37.240Z"
+                    "size": 103017,
+                    "date_published": "2025-09-23T08:49:29.753Z"
                 }
             ]
         },
@@ -327,7 +327,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Atlas-Lib-1.12.2-1.1.8a.jar",
+                    "file_name": "Atlas-Lib-1.12.2-1.1.9.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -335,16 +335,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6916/831/Atlas-Lib-1.12.2-1.1.8a.jar",
-                    "id": "6916831",
+                    "url": "https://edge.forgecdn.net/files/6981/112/Atlas-Lib-1.12.2-1.1.9.jar",
+                    "id": "6981112",
                     "parent_id": "463826",
                     "hashes": {
-                        "sha1": "3f35dd68677e9a2741572798bec0a9d7f82e1495",
-                        "md5": "7e765e809cdaefed1577b659f5983e79"
+                        "sha1": "e7eefeb1c301b2e5de3b334d7456971a46af44ab",
+                        "md5": "444cb8753f06d8ea24802477a2aaacc3"
                     },
                     "required_dependencies": [],
-                    "size": 1247627,
-                    "date_published": "2025-08-22T22:39:55.217Z"
+                    "size": 1259136,
+                    "date_published": "2025-09-09T21:27:06.083Z"
                 }
             ]
         },
@@ -1067,7 +1067,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Deeper-Depths-1.12.2-1.0.3d.jar",
+                    "file_name": "Deeper-Depths-1.12.2-1.1.0a.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1075,18 +1075,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6918/179/Deeper-Depths-1.12.2-1.0.3d.jar",
-                    "id": "6918179",
+                    "url": "https://edge.forgecdn.net/files/7027/83/Deeper-Depths-1.12.2-1.1.0a.jar",
+                    "id": "7027083",
                     "parent_id": "1101129",
                     "hashes": {
-                        "sha1": "dbbbcf315971b7927fd8feaca5220262dea1aa60",
-                        "md5": "17ff1246d5ff178fefc46309d4046e86"
+                        "sha1": "c6d870a17772494afc68af5f3e51871095d13d81",
+                        "md5": "e7b5de55ef0d375c3956753611ff724f"
                     },
                     "required_dependencies": [
                         "463826"
                     ],
-                    "size": 18180663,
-                    "date_published": "2025-08-23T09:51:04.337Z"
+                    "size": 18594838,
+                    "date_published": "2025-09-23T21:49:11.750Z"
                 }
             ]
         },
@@ -1418,7 +1418,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Fluidlogged-API-v3.0.6-mc1.12.2.jar",
+                    "file_name": "Fluidlogged-API-v3.1.0-mc1.12.2.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1426,16 +1426,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vVXPbodS/versions/ArR5epY9/Fluidlogged-API-v3.0.6-mc1.12.2.jar",
-                    "id": "ArR5epY9",
+                    "url": "https://cdn.modrinth.com/data/vVXPbodS/versions/kaUHi2zc/Fluidlogged-API-v3.1.0-mc1.12.2.jar",
+                    "id": "kaUHi2zc",
                     "parent_id": "vVXPbodS",
                     "hashes": {
-                        "sha512": "d01d2bfabec2c0e835a51a8a07d2964821f678a4c5445c83637335592e155a818b0192c17eab62aa068499d468934ec7e85ead8b3679e20cae9de2f1e2b8b07d",
-                        "sha1": "4d4d02cae7cfbc193c7319ef73716ea8e9a13e85"
+                        "sha512": "42253b15880e1fe0f2030b1bace78b7b57558c9f66d22d4c94267f0995c64fa92fdf3a3e445818ac91240ae35ad985ed5c7624cd8957776fb52da78133e89f1f",
+                        "sha1": "6c2e2143a1a7bb45d684a67bb3b41a97b23a8d09"
                     },
                     "required_dependencies": [],
-                    "size": 741671,
-                    "date_published": "2025-04-07T21:48:53.661129Z"
+                    "size": 768732,
+                    "date_published": "2025-09-19T23:42:31.473230Z"
                 }
             ]
         },
@@ -2408,7 +2408,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "magicultureintegrations-1.12.2-2.2.5.jar",
+                    "file_name": "magicultureintegrations-1.12.2-2.2.6.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -2416,19 +2416,19 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6905/883/magicultureintegrations-1.12.2-2.2.5.jar",
-                    "id": "6905883",
+                    "url": "https://edge.forgecdn.net/files/7008/202/magicultureintegrations-1.12.2-2.2.6.jar",
+                    "id": "7008202",
                     "parent_id": "1064613",
                     "hashes": {
-                        "sha1": "c2556a50a81ca20dfd2066e339d28d18dbb06432",
-                        "md5": "0cfbf26ad27f7e097bf8231ab5d59a58"
+                        "sha1": "389f4f05ef528b8da75b741006e1de766f896f17",
+                        "md5": "c56598636d1acdca27eb5a402ba26c74"
                     },
                     "required_dependencies": [
-                        "870276",
-                        "419286"
+                        "419286",
+                        "870276"
                     ],
-                    "size": 417322,
-                    "date_published": "2025-08-20T01:02:26.393Z"
+                    "size": 417350,
+                    "date_published": "2025-09-18T07:25:52.537Z"
                 }
             ]
         },
@@ -3610,7 +3610,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "survivaltools-1.12.2-1.2.0.jar",
+                    "file_name": "survivaltools-1.12.2-1.2.1.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -3618,18 +3618,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6797/730/survivaltools-1.12.2-1.2.0.jar",
-                    "id": "6797730",
+                    "url": "https://edge.forgecdn.net/files/7008/104/survivaltools-1.12.2-1.2.1.jar",
+                    "id": "7008104",
                     "parent_id": "1120531",
                     "hashes": {
-                        "sha1": "9461ba7b5941df962dd7223b99253fca4820a19c",
-                        "md5": "2f8d09f8702a3a83ca49d4186472c743"
+                        "sha1": "5a07013af2cadf097b39334097b4d16efa702133",
+                        "md5": "5f0bd84c6a684f1cfa607de5ed86e393"
                     },
                     "required_dependencies": [
                         "227083"
                     ],
-                    "size": 438762,
-                    "date_published": "2025-07-22T06:11:45.583Z"
+                    "size": 440867,
+                    "date_published": "2025-09-18T06:57:41.930Z"
                 }
             ]
         },
@@ -3919,7 +3919,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Traders-Backport-1.12.2-1.0.0.jar",
+                    "file_name": "Traders-Backport-1.12.2-1.0.1.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -3927,18 +3927,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6517/174/Traders-Backport-1.12.2-1.0.0.jar",
-                    "id": "6517174",
+                    "url": "https://edge.forgecdn.net/files/7027/277/Traders-Backport-1.12.2-1.0.1.jar",
+                    "id": "7027277",
                     "parent_id": "1257940",
                     "hashes": {
-                        "sha1": "5ff6f6a069a0ccfda31ccbbbb00750bf98146628",
-                        "md5": "6d140f983f42e70170179fabda467127"
+                        "sha1": "7657dd4809f53b1fbcb12a9a38aef594d68609ab",
+                        "md5": "e5a2e101ad2b2cf4f3f845ceb5bd0e0a"
                     },
                     "required_dependencies": [
                         "463826"
                     ],
-                    "size": 852169,
-                    "date_published": "2025-05-10T20:30:04.423Z"
+                    "size": 856320,
+                    "date_published": "2025-09-23T23:12:25.887Z"
                 }
             ]
         },

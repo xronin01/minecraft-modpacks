@@ -139,13 +139,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "appliedenergistics2-rv3-beta-684-GTNH.jar",
+                    "file_name": "appliedenergistics2-rv3-beta-688-GTNH.jar",
                     "release_type": "beta",
-                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-684-GTNH/appliedenergistics2-rv3-beta-684-GTNH.jar",
-                    "id": "290590467",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-688-GTNH/appliedenergistics2-rv3-beta-688-GTNH.jar",
+                    "id": "295660465",
                     "parent_id": "123942395",
-                    "size": 3804911,
-                    "date_published": "2025-09-07T10:53:49Z"
+                    "size": 3805444,
+                    "date_published": "2025-09-21T14:22:51Z"
                 }
             ]
         },
@@ -231,13 +231,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "backhand-1.7.1.jar",
+                    "file_name": "backhand-1.7.5.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.7.1/backhand-1.7.1.jar",
-                    "id": "289109154",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.7.5/backhand-1.7.5.jar",
+                    "id": "296443920",
                     "parent_id": "821008738",
-                    "size": 139360,
-                    "date_published": "2025-09-03T07:11:49Z"
+                    "size": 144708,
+                    "date_published": "2025-09-23T16:11:42Z"
                 }
             ]
         },
@@ -256,13 +256,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "battlegear2-1.5.6-backhand.jar",
+                    "file_name": "battlegear2-1.5.8-backhand.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.5.6-backhand/battlegear2-1.5.6-backhand.jar",
-                    "id": "282073707",
+                    "url": "https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.5.8-backhand/battlegear2-1.5.8-backhand.jar",
+                    "id": "295387826",
                     "parent_id": "992325358",
-                    "size": 979757,
-                    "date_published": "2025-08-13T08:23:16Z"
+                    "size": 980080,
+                    "date_published": "2025-09-20T14:32:29Z"
                 }
             ]
         },
@@ -368,13 +368,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "betterp2p-1.3.1.jar",
+                    "file_name": "betterp2p-1.3.2.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/BetterP2P/releases/download/1.3.1/betterp2p-1.3.1.jar",
-                    "id": "272525019",
+                    "url": "https://github.com/GTNewHorizons/BetterP2P/releases/download/1.3.2/betterp2p-1.3.2.jar",
+                    "id": "296697441",
                     "parent_id": "453676816",
-                    "size": 262573,
-                    "date_published": "2025-07-13T20:20:30Z"
+                    "size": 240440,
+                    "date_published": "2025-09-24T08:09:49Z"
                 }
             ]
         },
@@ -393,13 +393,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "binnie-mods-2.5.17.jar",
+                    "file_name": "binnie-mods-2.5.20.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.5.17/binnie-mods-2.5.17.jar",
-                    "id": "290031270",
+                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.5.20/binnie-mods-2.5.20.jar",
+                    "id": "296822799",
                     "parent_id": "225685236",
-                    "size": 4623527,
-                    "date_published": "2025-09-05T14:08:05Z"
+                    "size": 4625917,
+                    "date_published": "2025-09-24T15:48:58Z"
                 }
             ]
         },
@@ -1240,7 +1240,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "falsetweaks-mc1.7.10-3.9.7.jar",
+                    "file_name": "falsetweaks-mc1.7.10-4.0.2.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1248,19 +1248,19 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/VTGi3upD/versions/lMvAptIz/falsetweaks-mc1.7.10-3.9.7.jar",
-                    "id": "lMvAptIz",
+                    "url": "https://cdn.modrinth.com/data/VTGi3upD/versions/1PR45cnR/falsetweaks-mc1.7.10-4.0.2.jar",
+                    "id": "1PR45cnR",
                     "parent_id": "VTGi3upD",
                     "hashes": {
-                        "sha512": "f56694855ccc83b1d907ff8c4952d884c1e4ccc353e1f6fed9832033c8afa506c7cbca3c1e826d40cc1c5c6862c4f4a79cb1cbf39da2f8e97932c3a06058a9c5",
-                        "sha1": "06266a6b8db29e0e45d65e450c8224fe4f66b232"
+                        "sha512": "3cf002000f7babedd0b5f28f4c8a0a3641abdf109ab4249d31660a7954cd0f78b038b7ccbeadb126e11e226b5c86578a528ec25a27abb455bb4959c4804ebc61",
+                        "sha1": "d5012b00b20d3fa5238decd6b9b56af67d8a4428"
                     },
                     "required_dependencies": [
-                        "ghjoiQAl",
-                        "eGLBEILf"
+                        "eGLBEILf",
+                        "ghjoiQAl"
                     ],
-                    "size": 679542,
-                    "date_published": "2025-05-31T14:28:17.517323Z"
+                    "size": 530584,
+                    "date_published": "2025-09-21T20:00:16.226739Z"
                 }
             ]
         },
@@ -1501,7 +1501,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "hodgepodge-2.6.102.jar",
+                    "file_name": "hodgepodge-2.6.107.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1509,19 +1509,19 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6QQe8Ldy/versions/o9YkHHjk/hodgepodge-2.6.102.jar",
-                    "id": "o9YkHHjk",
+                    "url": "https://cdn.modrinth.com/data/6QQe8Ldy/versions/zbjSswut/hodgepodge-2.6.107.jar",
+                    "id": "zbjSswut",
                     "parent_id": "6QQe8Ldy",
                     "hashes": {
-                        "sha512": "8e2223ae3b1f93ef9ec286bb63d1c441bed977a1e1cdaef5825fb5166fa13c41c5177fb8625d2fb32bbf889ab2c0760f2f82e7476f3ba82f3ca679ec28decdc8",
-                        "sha1": "537c9f6383340a01e665b3f5199d9855d498157c"
+                        "sha512": "268903773e951d025a70ca174e0f1e06e35389b3e68a2d19947abf913947a9f686590b2f7455123d4aebb3ab2059bafc2404af972c7c19c8b933d1b036fcb8ed",
+                        "sha1": "6f796271b1675050da2e1578fd6489166eab2af6"
                     },
                     "required_dependencies": [
-                        "ghjoiQAl",
-                        "vTvnv7qp"
+                        "vTvnv7qp",
+                        "ghjoiQAl"
                     ],
-                    "size": 698940,
-                    "date_published": "2025-08-31T08:57:41.961523Z"
+                    "size": 703548,
+                    "date_published": "2025-09-23T20:40:20.324129Z"
                 }
             ]
         },
@@ -1565,13 +1565,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "IguanaTweaksTConstruct-2.6.5.jar",
+                    "file_name": "IguanaTweaksTConstruct-2.6.6.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.6.5/IguanaTweaksTConstruct-2.6.5.jar",
-                    "id": "274851722",
+                    "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.6.6/IguanaTweaksTConstruct-2.6.6.jar",
+                    "id": "294219325",
                     "parent_id": "54395485",
-                    "size": 439560,
-                    "date_published": "2025-07-21T09:10:27Z"
+                    "size": 439838,
+                    "date_published": "2025-09-17T11:43:07Z"
                 }
             ]
         },
@@ -1601,7 +1601,7 @@
             ]
         },
         {
-            "pakku_id": "rz661iTt858ta9Xf",
+            "pakku_id": "otuCLNhjpEIl8Q4H",
             "type": "MOD",
             "slug": {
                 "github": "GTNewHorizons/InventoryBogoSorter"
@@ -1615,13 +1615,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "bogosorter-1.2.54-GTNH.jar",
+                    "file_name": "bogosorter-1.2.64-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.54-GTNH/bogosorter-1.2.54-GTNH.jar",
-                    "id": "290117501",
+                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.64-GTNH/bogosorter-1.2.64-GTNH.jar",
+                    "id": "296805419",
                     "parent_id": "905540761",
-                    "size": 387802,
-                    "date_published": "2025-09-05T19:45:41Z"
+                    "size": 386773,
+                    "date_published": "2025-09-24T14:49:41Z"
                 }
             ]
         },
@@ -1799,11 +1799,11 @@
             ]
         },
         {
-            "pakku_id": "TTxe7cGIOoxssAq8",
+            "pakku_id": "sCIKxQtm2KwLcMtB",
             "pakku_links": [
+                "fCEOZqpTAw7eZEEC",
                 "8S4obYZzLXZvrbri",
-                "TwSdS0ZiU8OuPSqk",
-                "fCEOZqpTAw7eZEEC"
+                "TwSdS0ZiU8OuPSqk"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -1811,7 +1811,7 @@
                 "modrinth": "lumi1710"
             },
             "name": {
-                "modrinth": "Lumi"
+                "modrinth": "Lumi Lighting Engine Optimizer"
             },
             "id": {
                 "modrinth": "RIP6DWIB"
@@ -1835,8 +1835,8 @@
                         "sha1": "335a7670360cd825b23fb08678f72a184aca9360"
                     },
                     "required_dependencies": [
-                        "y0vBUOla",
                         "eGLBEILf",
+                        "y0vBUOla",
                         "ghjoiQAl"
                     ],
                     "size": 208762,
@@ -2116,13 +2116,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "Natura-2.8.8.jar",
+                    "file_name": "Natura-2.8.9.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Natura/releases/download/2.8.8/Natura-2.8.8.jar",
-                    "id": "265820919",
+                    "url": "https://github.com/GTNewHorizons/Natura/releases/download/2.8.9/Natura-2.8.9.jar",
+                    "id": "292573985",
                     "parent_id": "247338599",
-                    "size": 888839,
-                    "date_published": "2025-06-20T20:17:16Z"
+                    "size": 888955,
+                    "date_published": "2025-09-12T16:17:33Z"
                 }
             ]
         },
@@ -2228,13 +2228,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "NotEnoughEnergistics-1.7.12.jar",
+                    "file_name": "NotEnoughEnergistics-1.7.14.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.12/NotEnoughEnergistics-1.7.12.jar",
-                    "id": "288701473",
+                    "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.14/NotEnoughEnergistics-1.7.14.jar",
+                    "id": "295660082",
                     "parent_id": "393468538",
-                    "size": 308664,
-                    "date_published": "2025-09-02T07:15:03Z"
+                    "size": 308892,
+                    "date_published": "2025-09-21T14:20:09Z"
                 }
             ]
         },
@@ -2257,7 +2257,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NotEnoughItems-2.7.82-GTNH.jar",
+                    "file_name": "NotEnoughItems-2.7.90-GTNH.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -2265,18 +2265,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/iNPc3Onu/versions/8zKOkjN8/NotEnoughItems-2.7.82-GTNH.jar",
-                    "id": "8zKOkjN8",
+                    "url": "https://cdn.modrinth.com/data/iNPc3Onu/versions/NWvAh2Yt/NotEnoughItems-2.7.90-GTNH.jar",
+                    "id": "NWvAh2Yt",
                     "parent_id": "iNPc3Onu",
                     "hashes": {
-                        "sha512": "185387dc98fd203639484cfbe740602dfcf86e3d4f229efd73a30183400be5dbd75b17d35b72ac424858b958b5d5aad071a39ca9b83abb71002c0b0e38428414",
-                        "sha1": "f0046c77b8bda70cdf4e9158ac8ab836252d5c27"
+                        "sha512": "62fcec28cb9db4fe4287e95f326ba8912ed5ce2e1e5822da0f1e270a68aaf7ce34d34bcd2f2693ed6ddf1e5c7dc25ccb2a0388e7e174e5e7cc91ab2496ffb5b8",
+                        "sha1": "7496ec57efd8c8019ffd01e361e5ab428ddb8c39"
                     },
                     "required_dependencies": [
                         "qMOdaUOs"
                     ],
-                    "size": 1462548,
-                    "date_published": "2025-09-09T06:03:22.147950Z"
+                    "size": 1476897,
+                    "date_published": "2025-09-24T11:20:11.202564Z"
                 }
             ]
         },
@@ -2596,7 +2596,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "salisarcana-v2.2.0.jar",
+                    "file_name": "salisarcana-v2.3.0.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -2604,16 +2604,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/y1bqIjK6/versions/sZ01xkhh/salisarcana-v2.2.0.jar",
-                    "id": "sZ01xkhh",
+                    "url": "https://cdn.modrinth.com/data/y1bqIjK6/versions/Ky1AqmQp/salisarcana-v2.3.0.jar",
+                    "id": "Ky1AqmQp",
                     "parent_id": "y1bqIjK6",
                     "hashes": {
-                        "sha512": "82b25b955633a6329e93b7e7243d6a4b3bff159729cca3d8c2e9c035887a3bca8cb58eed02a7feb8da756480ca5eb14225960ceeadd83eabf37c5025a01b7f78",
-                        "sha1": "71c38cacbfb9967e134f18eff5c12ded196fd6f6"
+                        "sha512": "e103fc6f163e5798e2b538a5144c0f6673f1e47cafa984cce328e2e58d8ae17412f084ea187a03e6cfc4efd321681703c6ba35aefc0b54e7ce12eed754e74b2e",
+                        "sha1": "656d40aabed2ec750f3e355024c3cf5f6c0876bf"
                     },
                     "required_dependencies": [],
-                    "size": 509819,
-                    "date_published": "2025-07-30T00:57:16.821481Z"
+                    "size": 550314,
+                    "date_published": "2025-09-20T22:12:58.687223Z"
                 }
             ]
         },
@@ -2632,13 +2632,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ServerUtilities-2.1.59.jar",
+                    "file_name": "ServerUtilities-2.1.61.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.59/ServerUtilities-2.1.59.jar",
-                    "id": "286093645",
+                    "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.61/ServerUtilities-2.1.61.jar",
+                    "id": "295385666",
                     "parent_id": "692543394",
-                    "size": 1906582,
-                    "date_published": "2025-08-25T17:20:06Z"
+                    "size": 1906744,
+                    "date_published": "2025-09-20T14:20:19Z"
                 }
             ]
         },
@@ -2990,13 +2990,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ThaumcraftMobAspects-1.2.0-GTNH.jar",
+                    "file_name": "ThaumcraftMobAspects-1.2.1-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.2.0-GTNH/ThaumcraftMobAspects-1.2.0-GTNH.jar",
-                    "id": "265838302",
+                    "url": "https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.2.1-GTNH/ThaumcraftMobAspects-1.2.1-GTNH.jar",
+                    "id": "292575642",
                     "parent_id": "393802949",
-                    "size": 24007,
-                    "date_published": "2025-06-20T21:34:14Z"
+                    "size": 24005,
+                    "date_published": "2025-09-12T16:22:24Z"
                 }
             ]
         },
@@ -3016,7 +3016,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ThaumicHorizons-1.7.6.jar",
+                    "file_name": "ThaumicHorizons-1.7.8.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -3024,16 +3024,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1wDWP1tN/versions/J2xdE4XJ/ThaumicHorizons-1.7.6.jar",
-                    "id": "J2xdE4XJ",
+                    "url": "https://cdn.modrinth.com/data/1wDWP1tN/versions/yYGrDBnk/ThaumicHorizons-1.7.8.jar",
+                    "id": "yYGrDBnk",
                     "parent_id": "1wDWP1tN",
                     "hashes": {
-                        "sha512": "93ca1a8bc81406081ed0ef8d63c532dfb072ff1e825d2342d472ddaade9023fc51d70111163771a3bf91033e155338be359bb1119764c723cb508409689094a1",
-                        "sha1": "0594e7e5f3c8de9cea4d26b29d7530df2f01e88d"
+                        "sha512": "0a27ad8f475571b2d3eb649140cdf315b6e7a9708ae87b478d033086e8562249dd2aff0f001e18506a74daa4b680da06c0b852a06a6b7a56c2cc793d0a6027c3",
+                        "sha1": "8822e10c919fbbc08114076c30cf25c4ed9a3c71"
                     },
                     "required_dependencies": [],
-                    "size": 2487746,
-                    "date_published": "2025-07-19T00:37:15.006973Z"
+                    "size": 2954584,
+                    "date_published": "2025-09-22T16:40:04.368354Z"
                 }
             ]
         },
@@ -3102,13 +3102,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "thaumicenergistics-1.7.13-GTNH.jar",
+                    "file_name": "thaumicenergistics-1.7.14-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.13-GTNH/thaumicenergistics-1.7.13-GTNH.jar",
-                    "id": "290663065",
+                    "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.14-GTNH/thaumicenergistics-1.7.14-GTNH.jar",
+                    "id": "293543744",
                     "parent_id": "246008913",
-                    "size": 1754694,
-                    "date_published": "2025-09-07T18:18:43Z"
+                    "size": 1754971,
+                    "date_published": "2025-09-15T18:49:06Z"
                 }
             ]
         },
@@ -3127,13 +3127,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ThaumicTinkerer-2.11.20.jar",
+                    "file_name": "ThaumicTinkerer-2.11.25.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.20/ThaumicTinkerer-2.11.20.jar",
-                    "id": "275817025",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.25/ThaumicTinkerer-2.11.25.jar",
+                    "id": "295893556",
                     "parent_id": "54576486",
-                    "size": 2040923,
-                    "date_published": "2025-07-24T03:47:49Z"
+                    "size": 2044076,
+                    "date_published": "2025-09-22T07:06:47Z"
                 }
             ]
         },
@@ -3152,13 +3152,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "Thaumic-Exploration-1.4.3-GTNH.jar",
+                    "file_name": "Thaumic-Exploration-1.4.7-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.3-GTNH/Thaumic-Exploration-1.4.3-GTNH.jar",
-                    "id": "279102705",
+                    "url": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.7-GTNH/Thaumic-Exploration-1.4.7-GTNH.jar",
+                    "id": "295388111",
                     "parent_id": "66476256",
-                    "size": 2012178,
-                    "date_published": "2025-08-04T03:35:41Z"
+                    "size": 2012145,
+                    "date_published": "2025-09-20T14:34:50Z"
                 }
             ]
         },
@@ -3262,13 +3262,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "TConstruct-1.13.51-GTNH.jar",
+                    "file_name": "TConstruct-1.13.54-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.51-GTNH/TConstruct-1.13.51-GTNH.jar",
-                    "id": "287427223",
+                    "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.54-GTNH/TConstruct-1.13.54-GTNH.jar",
+                    "id": "295387214",
                     "parent_id": "53168432",
-                    "size": 5720347,
-                    "date_published": "2025-08-29T06:29:56Z"
+                    "size": 5720291,
+                    "date_published": "2025-09-20T14:28:28Z"
                 }
             ]
         },
@@ -3537,13 +3537,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "NEIAddons-1.16.0.jar",
+                    "file_name": "NEIAddons-1.17.0.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.16.0/NEIAddons-1.16.0.jar",
-                    "id": "176343540",
+                    "url": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.17.0/NEIAddons-1.17.0.jar",
+                    "id": "295387265",
                     "parent_id": "398808234",
-                    "size": 145330,
-                    "date_published": "2024-06-27T19:50:40Z"
+                    "size": 145396,
+                    "date_published": "2025-09-20T14:28:52Z"
                 }
             ]
         },
@@ -3612,13 +3612,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "TwilightForest-2.7.12.jar",
+                    "file_name": "TwilightForest-2.7.13.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.12/TwilightForest-2.7.12.jar",
-                    "id": "290589831",
+                    "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.13/TwilightForest-2.7.13.jar",
+                    "id": "295389090",
                     "parent_id": "237507266",
-                    "size": 5426492,
-                    "date_published": "2025-09-07T10:50:09Z"
+                    "size": 5426791,
+                    "date_published": "2025-09-20T14:42:39Z"
                 }
             ]
         }

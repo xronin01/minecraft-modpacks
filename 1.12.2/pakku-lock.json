@@ -1067,7 +1067,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Deeper-Depths-1.12.2-1.1.0a.jar",
+                    "file_name": "Deeper-Depths-1.12.2-1.1.0b.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1075,18 +1075,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7027/83/Deeper-Depths-1.12.2-1.1.0a.jar",
-                    "id": "7027083",
+                    "url": "https://edge.forgecdn.net/files/7030/363/Deeper-Depths-1.12.2-1.1.0b.jar",
+                    "id": "7030363",
                     "parent_id": "1101129",
                     "hashes": {
-                        "sha1": "c6d870a17772494afc68af5f3e51871095d13d81",
-                        "md5": "e7b5de55ef0d375c3956753611ff724f"
+                        "sha1": "2b514e3de65f01a2d9c1dee9b5b3a4bf22f504e9",
+                        "md5": "709634f034af7e6096e53e2796e733c1"
                     },
                     "required_dependencies": [
                         "463826"
                     ],
-                    "size": 18594838,
-                    "date_published": "2025-09-23T21:49:11.750Z"
+                    "size": 18595069,
+                    "date_published": "2025-09-24T20:56:14.027Z"
                 }
             ]
         },

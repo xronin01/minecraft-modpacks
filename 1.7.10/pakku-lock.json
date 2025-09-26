@@ -139,13 +139,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "appliedenergistics2-rv3-beta-688-GTNH.jar",
+                    "file_name": "appliedenergistics2-rv3-beta-689-GTNH.jar",
                     "release_type": "beta",
-                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-688-GTNH/appliedenergistics2-rv3-beta-688-GTNH.jar",
-                    "id": "295660465",
+                    "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-689-GTNH/appliedenergistics2-rv3-beta-689-GTNH.jar",
+                    "id": "296914087",
                     "parent_id": "123942395",
-                    "size": 3805444,
-                    "date_published": "2025-09-21T14:22:51Z"
+                    "size": 3805459,
+                    "date_published": "2025-09-24T21:44:45Z"
                 }
             ]
         },
@@ -231,13 +231,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "backhand-1.7.5.jar",
+                    "file_name": "backhand-1.7.6.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.7.5/backhand-1.7.5.jar",
-                    "id": "296443920",
+                    "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.7.6/backhand-1.7.6.jar",
+                    "id": "297514556",
                     "parent_id": "821008738",
-                    "size": 144708,
-                    "date_published": "2025-09-23T16:11:42Z"
+                    "size": 145956,
+                    "date_published": "2025-09-26T11:05:06Z"
                 }
             ]
         },
@@ -393,13 +393,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "binnie-mods-2.5.20.jar",
+                    "file_name": "binnie-mods-2.5.22.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.5.20/binnie-mods-2.5.20.jar",
-                    "id": "296822799",
+                    "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.5.22/binnie-mods-2.5.22.jar",
+                    "id": "297172134",
                     "parent_id": "225685236",
-                    "size": 4625917,
-                    "date_published": "2025-09-24T15:48:58Z"
+                    "size": 4630639,
+                    "date_published": "2025-09-25T13:48:47Z"
                 }
             ]
         },
@@ -1040,7 +1040,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "endlessids-mc1.7.10-1.6.11.jar",
+                    "file_name": "endlessids-mc1.7.10-1.6.12.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1048,20 +1048,20 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qGHY4QGo/versions/Wju6VmBu/endlessids-mc1.7.10-1.6.11.jar",
-                    "id": "Wju6VmBu",
+                    "url": "https://cdn.modrinth.com/data/qGHY4QGo/versions/5aul2Jsm/endlessids-mc1.7.10-1.6.12.jar",
+                    "id": "5aul2Jsm",
                     "parent_id": "qGHY4QGo",
                     "hashes": {
-                        "sha512": "0821367d85fd63f7dac528429229084603344e414ca234bce73e83d6c21f0703818959b446f4442bcb76fbeda057f2ed018af1c092fc75f9e22d219f63809ff7",
-                        "sha1": "ba6987a9dbf126e1d2d429daa92cec0dff6134a6"
+                        "sha512": "b7bcbd4cdf5591851a4f42bd2d7f999aa27072b308391e6a7469d13e7043bfd2eb1a294aeac51d035cfee5c47ef1590338d2c98e9355bfea8125315ebadb2d80",
+                        "sha1": "a1be54e3ac067de0b3827953b4cdc432dcf11ad4"
                     },
                     "required_dependencies": [
                         "eGLBEILf",
                         "ghjoiQAl",
                         "y0vBUOla"
                     ],
-                    "size": 355657,
-                    "date_published": "2025-08-27T17:05:27.996062Z"
+                    "size": 351779,
+                    "date_published": "2025-09-25T17:40:08.971990Z"
                 }
             ]
         },
@@ -1240,7 +1240,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "falsetweaks-mc1.7.10-4.0.2.jar",
+                    "file_name": "falsetweaks-mc1.7.10-4.0.4.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1248,19 +1248,19 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/VTGi3upD/versions/1PR45cnR/falsetweaks-mc1.7.10-4.0.2.jar",
-                    "id": "1PR45cnR",
+                    "url": "https://cdn.modrinth.com/data/VTGi3upD/versions/wwqZ7cBa/falsetweaks-mc1.7.10-4.0.4.jar",
+                    "id": "wwqZ7cBa",
                     "parent_id": "VTGi3upD",
                     "hashes": {
-                        "sha512": "3cf002000f7babedd0b5f28f4c8a0a3641abdf109ab4249d31660a7954cd0f78b038b7ccbeadb126e11e226b5c86578a528ec25a27abb455bb4959c4804ebc61",
-                        "sha1": "d5012b00b20d3fa5238decd6b9b56af67d8a4428"
+                        "sha512": "9f5dc6639b2487064fa240e844256a03ae477dd7178598d8351958adf60bba8890bec82f749cceaee39b31889ee0d0d84461b48ec6c0ffe4ec99252e0cd93f8b",
+                        "sha1": "4eca5b95fd13dcea2c89ba79ba53b5e9676cdeaf"
                     },
                     "required_dependencies": [
                         "eGLBEILf",
                         "ghjoiQAl"
                     ],
-                    "size": 530584,
-                    "date_published": "2025-09-21T20:00:16.226739Z"
+                    "size": 531176,
+                    "date_published": "2025-09-26T16:32:53.671271Z"
                 }
             ]
         },
@@ -1408,7 +1408,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "gtnhlib-0.6.39.jar",
+                    "file_name": "gtnhlib-0.6.40.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -1416,18 +1416,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vTvnv7qp/versions/UFXLICcw/gtnhlib-0.6.39.jar",
-                    "id": "UFXLICcw",
+                    "url": "https://cdn.modrinth.com/data/vTvnv7qp/versions/DuKGtw0Q/gtnhlib-0.6.40.jar",
+                    "id": "DuKGtw0Q",
                     "parent_id": "vTvnv7qp",
                     "hashes": {
-                        "sha512": "eeb8971058d3baccf625611bcbbeb22ef9022cb37026647a7cb2721f66d9daf87aa8c65472a022732f2d4aef5f9cf54a2e7c680e7fc7b8611059107a7a8626b0",
-                        "sha1": "3a55e1db811b2000d7b76861dc3ca8fdca228037"
+                        "sha512": "7c7d4918a7d6bfcae4b8e00fe397a1a856bb43b61f00181dc48788cd72701457f71766e7561d1a93452f166bb2dc00e4f17ea390d4bb178bea36cc86084863bf",
+                        "sha1": "5bee4c170d722ccefdd77632b7493c2394307f69"
                     },
                     "required_dependencies": [
                         "ghjoiQAl"
                     ],
-                    "size": 24943303,
-                    "date_published": "2025-08-10T13:29:43.080208Z"
+                    "size": 24949115,
+                    "date_published": "2025-09-26T07:49:43.266264Z"
                 }
             ]
         },
@@ -1590,13 +1590,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "InGameInfoXML-2.8.28.jar",
+                    "file_name": "InGameInfoXML-2.8.29.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.28/InGameInfoXML-2.8.28.jar",
-                    "id": "275175864",
+                    "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.29/InGameInfoXML-2.8.29.jar",
+                    "id": "297185151",
                     "parent_id": "245804142",
-                    "size": 319846,
-                    "date_published": "2025-07-22T07:44:26Z"
+                    "size": 319606,
+                    "date_published": "2025-09-25T14:30:00Z"
                 }
             ]
         },
@@ -1615,13 +1615,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "bogosorter-1.2.64-GTNH.jar",
+                    "file_name": "bogosorter-1.2.65-GTNH.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.64-GTNH/bogosorter-1.2.64-GTNH.jar",
-                    "id": "296805419",
+                    "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.65-GTNH/bogosorter-1.2.65-GTNH.jar",
+                    "id": "297586891",
                     "parent_id": "905540761",
                     "size": 386773,
-                    "date_published": "2025-09-24T14:49:41Z"
+                    "date_published": "2025-09-26T15:29:13Z"
                 }
             ]
         },
@@ -2683,7 +2683,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "StorageDrawers-2.1.7-GTNH.jar",
+                    "file_name": "StorageDrawers-2.1.8-GTNH.jar",
                     "mc_versions": [
                         "1.7.10"
                     ],
@@ -2691,16 +2691,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/C0xOkNfT/versions/SxmBAax7/StorageDrawers-2.1.7-GTNH.jar",
-                    "id": "SxmBAax7",
+                    "url": "https://cdn.modrinth.com/data/C0xOkNfT/versions/HYLYRjPh/StorageDrawers-2.1.8-GTNH.jar",
+                    "id": "HYLYRjPh",
                     "parent_id": "C0xOkNfT",
                     "hashes": {
-                        "sha512": "6a6b97808109bd26343cdc55a314934160cab3f438c97741fb716349cc76c97d80462c7932913f928ba4a889786e1d081df3d892d76c50cec104f8ae25a99633",
-                        "sha1": "1481a784ec8b8a990684f0e32649161025582391"
+                        "sha512": "16b34c9f9ca832bc909ee1577cc7a997b031b86d17f75355f2875eb40894963e5d492717b2210eec414f6d951c01dcf5a73e2c6ca503ec6a5f2348a34d7973c4",
+                        "sha1": "d85ec4668b46be0bd85d21885a55f45d4772be72"
                     },
                     "required_dependencies": [],
-                    "size": 1287738,
-                    "date_published": "2025-09-02T07:18:10.670152Z"
+                    "size": 1287812,
+                    "date_published": "2025-09-26T11:11:37.696875Z"
                 }
             ]
         },
@@ -3127,13 +3127,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "ThaumicTinkerer-2.11.25.jar",
+                    "file_name": "ThaumicTinkerer-2.11.26.jar",
                     "release_type": "release",
-                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.25/ThaumicTinkerer-2.11.25.jar",
-                    "id": "295893556",
+                    "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.26/ThaumicTinkerer-2.11.26.jar",
+                    "id": "297238933",
                     "parent_id": "54576486",
-                    "size": 2044076,
-                    "date_published": "2025-09-22T07:06:47Z"
+                    "size": 2044301,
+                    "date_published": "2025-09-25T17:36:02Z"
                 }
             ]
         },

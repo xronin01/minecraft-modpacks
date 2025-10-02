@@ -218,7 +218,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ArmoredArms-v1.2.5-release.jar",
+                    "file_name": "ArmoredArms-v1.3.2-release.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -226,16 +226,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/utfvkRlv/versions/ZtGWqviA/ArmoredArms-v1.2.5-release.jar",
-                    "id": "ZtGWqviA",
+                    "url": "https://cdn.modrinth.com/data/utfvkRlv/versions/yVnGMj1n/ArmoredArms-v1.3.2-release.jar",
+                    "id": "yVnGMj1n",
                     "parent_id": "utfvkRlv",
                     "hashes": {
-                        "sha512": "dcaea66a1cff82ab0ef9927c843a3c0e8cc05c3dce3444aea96c31b06c05def8d03cf4d5c297de8367da10b71d71f66b38b64f568e27870ceaaa7cef436c4772",
-                        "sha1": "83474e205db8e632e430aa4ddf8ec6480c69eded"
+                        "sha512": "0863a5dc526c153d6e8b905ae67784d8bbd96f9f76366f4ea4cfaaa5ea5cf4ddc480581ffb7bff4ceb385c703ee83b92fd9a7d39b4423120215131bdb1b86ad8",
+                        "sha1": "70e9454754a52073c44215570fc09995e5ec4743"
                     },
                     "required_dependencies": [],
-                    "size": 53317,
-                    "date_published": "2025-09-07T17:44:33.428653Z"
+                    "size": 76520,
+                    "date_published": "2025-10-01T19:56:17.062078Z"
                 }
             ]
         },
@@ -1418,7 +1418,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Fluidlogged-API-v3.1.0-mc1.12.2.jar",
+                    "file_name": "Fluidlogged-API-v3.1.1-mc1.12.2.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1426,16 +1426,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vVXPbodS/versions/kaUHi2zc/Fluidlogged-API-v3.1.0-mc1.12.2.jar",
-                    "id": "kaUHi2zc",
+                    "url": "https://cdn.modrinth.com/data/vVXPbodS/versions/IFhgsIJK/Fluidlogged-API-v3.1.1-mc1.12.2.jar",
+                    "id": "IFhgsIJK",
                     "parent_id": "vVXPbodS",
                     "hashes": {
-                        "sha512": "42253b15880e1fe0f2030b1bace78b7b57558c9f66d22d4c94267f0995c64fa92fdf3a3e445818ac91240ae35ad985ed5c7624cd8957776fb52da78133e89f1f",
-                        "sha1": "6c2e2143a1a7bb45d684a67bb3b41a97b23a8d09"
+                        "sha512": "a51f335c7ef3a0399d677952e2c1037bd08b6a75fd7ca72e423b7941eda52520a6aeb8b6424a802e139c1819d0d42f812414f5fb75e74af9ec82c28900de563a",
+                        "sha1": "9331443b71307474c90ac8db0d3d97593be54a54"
                     },
                     "required_dependencies": [],
-                    "size": 768732,
-                    "date_published": "2025-09-19T23:42:31.473230Z"
+                    "size": 770093,
+                    "date_published": "2025-10-01T15:45:38.573151Z"
                 }
             ]
         },
@@ -1765,7 +1765,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "HadEnoughItems_1.12.2-4.29.7.jar",
+                    "file_name": "HadEnoughItems_1.12.2-4.29.8.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1773,16 +1773,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/2iXFLwYO/versions/jaPHbRYH/HadEnoughItems_1.12.2-4.29.7.jar",
-                    "id": "jaPHbRYH",
+                    "url": "https://cdn.modrinth.com/data/2iXFLwYO/versions/sXmGWeF6/HadEnoughItems_1.12.2-4.29.8.jar",
+                    "id": "sXmGWeF6",
                     "parent_id": "2iXFLwYO",
                     "hashes": {
-                        "sha512": "73526a64f81027df86a5f7b02b240e1e7a116177b8668e6b8116b4c8322059e49e4c38069f76eff6a27c636c834a46c3ab05d648e5a2e379361225975bf2b653",
-                        "sha1": "3326d588b18a0231f475c1db6fad07e031ba34b1"
+                        "sha512": "ca15f3c10d15eb4ade5c9daef831a0a69c5e9c359c688ff7997b454519a96abcca8b7ebb43e32e7a8f9a1b275704c69525385347824c1bea65a453e82933f40f",
+                        "sha1": "4380cd6ef10897e6acd50d0d69f6776299567ae9"
                     },
                     "required_dependencies": [],
-                    "size": 783978,
-                    "date_published": "2025-09-04T15:16:58.935647Z"
+                    "size": 783949,
+                    "date_published": "2025-10-02T12:59:46.700902Z"
                 }
             ]
         },
@@ -2484,7 +2484,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "MeowmelDrawers-1.12.2-5.5.9.jar",
+                    "file_name": "MeowmelDrawers-1.12.2-5.6.0.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -2492,16 +2492,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6947/565/MeowmelDrawers-1.12.2-5.5.9.jar",
-                    "id": "6947565",
+                    "url": "https://edge.forgecdn.net/files/7042/531/MeowmelDrawers-1.12.2-5.6.0.jar",
+                    "id": "7042531",
                     "parent_id": "1303187",
                     "hashes": {
-                        "sha1": "87aa7627277fd316e7168d883b2d92bf4bb4a392",
-                        "md5": "fb6253e90654bf12cedcaa7bcec76724"
+                        "sha1": "75a0458a3aef173fa1758f1721ef6aecf10093aa",
+                        "md5": "47ccbbe4146c1bdc5e02e4fb0669d36a"
                     },
                     "required_dependencies": [],
-                    "size": 918798,
-                    "date_published": "2025-08-31T08:03:50.490Z"
+                    "size": 918455,
+                    "date_published": "2025-09-28T14:56:16.400Z"
                 }
             ]
         },
@@ -2521,7 +2521,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "!mixinbooter-10.6.jar",
+                    "file_name": "!mixinbooter-10.7.jar",
                     "mc_versions": [
                         "1.8",
                         "1.8.1",
@@ -2552,16 +2552,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/G1ckZuWK/versions/jxYM6zXi/!mixinbooter-10.6.jar",
-                    "id": "jxYM6zXi",
+                    "url": "https://cdn.modrinth.com/data/G1ckZuWK/versions/PZYBy1vc/!mixinbooter-10.7.jar",
+                    "id": "PZYBy1vc",
                     "parent_id": "G1ckZuWK",
                     "hashes": {
-                        "sha512": "49a38e541bb8f3ce12b68db68d8ea84c6ca1b84eebcce1970bd63ce0b5d0df4c35b3290117a6ab3b41d8c46df0868421f6c4088ac5b7f3b4f7b902c5e890c5bd",
-                        "sha1": "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3"
+                        "sha512": "a71dd51da4c44f934c12b7d329b3480df0829266fe3d936f348868b6095007d635f9b1aa65639031ee8500e7c36c1b3607e82e0fc7dc64be5990b14795ae02bc",
+                        "sha1": "3fdfffe4fd446461ea9c3cb044484588997b9dbc"
                     },
                     "required_dependencies": [],
-                    "size": 2382989,
-                    "date_published": "2025-03-25T14:27:19.395446Z"
+                    "size": 2383999,
+                    "date_published": "2025-09-30T17:19:37.125503Z"
                 }
             ]
         },
@@ -2737,26 +2737,26 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "modularui-2.5.0-rc6.jar",
+                    "file_name": "modularui-2.5.0.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
                     "loaders": [
                         "forge"
                     ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/Ecvd12QC/versions/vnfYqcgr/modularui-2.5.0-rc6.jar",
-                    "id": "vnfYqcgr",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/Ecvd12QC/versions/oo6MCpre/modularui-2.5.0.jar",
+                    "id": "oo6MCpre",
                     "parent_id": "Ecvd12QC",
                     "hashes": {
-                        "sha512": "992eefc42746861b2e55e4852e9f7e41390ff1ee2ed2a402fbeb4dfddfe60cf62e52191f58e8200c4930c9400a2fc39630db8a5c55de20083b84ca4a83952098",
-                        "sha1": "2f1e64d550a2f1be26c6b5dbad5513410f51857a"
+                        "sha512": "575f7a8147976808101cf9cc35a25f6685a5152c254e31f3ff31a6e40b052d371a961d3cf8ab3a906d349847a5396b39db26c21b9960845c7adf9acbbe480bbf",
+                        "sha1": "928e264ad767852f21b9faa3fb7ba44a2b53d106"
                     },
                     "required_dependencies": [
                         "G1ckZuWK"
                     ],
-                    "size": 1696320,
-                    "date_published": "2025-08-23T18:13:28.076447Z"
+                    "size": 1749342,
+                    "date_published": "2025-10-01T13:11:23.508611Z"
                 }
             ]
         },

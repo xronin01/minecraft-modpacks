@@ -96,7 +96,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "ae2wut-1.2.4.jar",
+                    "file_name": "ae2wut-1.2.6.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -104,19 +104,19 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7024/967/ae2wut-1.2.4.jar",
-                    "id": "7024967",
+                    "url": "https://edge.forgecdn.net/files/7151/43/ae2wut-1.2.6.jar",
+                    "id": "7151043",
                     "parent_id": "1196988",
                     "hashes": {
-                        "sha1": "5d1171556715c5b21b663c199affd9e3cdea3531",
-                        "md5": "a6e893eb39596375f18474e3ac10639d"
+                        "sha1": "bf1497a527b682f6e39a430f0827d2834c6b1435",
+                        "md5": "35019c2a174fd32d1f45247a44019114"
                     },
                     "required_dependencies": [
                         "570458",
                         "419286"
                     ],
-                    "size": 103017,
-                    "date_published": "2025-09-23T08:49:29.753Z"
+                    "size": 103348,
+                    "date_published": "2025-10-26T06:58:55.863Z"
                 }
             ]
         },
@@ -771,7 +771,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Cherry_on-1.12.2-1.3.29.jar",
+                    "file_name": "Cherry_on-1.12.2-1.3.30.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -779,16 +779,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/UmCzjjmW/versions/OpTVavTo/Cherry_on-1.12.2-1.3.29.jar",
-                    "id": "OpTVavTo",
+                    "url": "https://cdn.modrinth.com/data/UmCzjjmW/versions/4L5cSKBS/Cherry_on-1.12.2-1.3.30.jar",
+                    "id": "4L5cSKBS",
                     "parent_id": "UmCzjjmW",
                     "hashes": {
-                        "sha512": "4f2adea17d20d424b21b0e6ee8d93edcd131b5810bb0aab94669dcfab75cf5227c0975227c3fb539542641444ea271da3553dbbb866a6b77c14e5487ab322f79",
-                        "sha1": "ccc83411d1331c0e8240789e543d1ec9523ce51b"
+                        "sha512": "5c705b9c286735de940002ab0500327f07699798f645d45b72b0de1df965b51e18ed66e5f2f8581a4a400a593d63a850f0bc7bba70e9b2805e391e6011df4cbf",
+                        "sha1": "a5a793106fc1210272d358e4ccced95ee0698a8f"
                     },
                     "required_dependencies": [],
-                    "size": 11735104,
-                    "date_published": "2025-09-02T16:06:50.571344Z"
+                    "size": 11739082,
+                    "date_published": "2025-10-24T08:00:52.576255Z"
                 }
             ]
         },
@@ -1454,7 +1454,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "FoodSpoiling-1.0.4.jar",
+                    "file_name": "FoodSpoiling-1.0.5.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1462,16 +1462,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6840/404/FoodSpoiling-1.0.4.jar",
-                    "id": "6840404",
+                    "url": "https://edge.forgecdn.net/files/7147/480/FoodSpoiling-1.0.5.jar",
+                    "id": "7147480",
                     "parent_id": "1133499",
                     "hashes": {
-                        "sha1": "7cb983477e5db72f344bfa43c49fedd05e06ee1c",
-                        "md5": "3b6c6056ba989fac5c93310a0bef851f"
+                        "sha1": "9fa990a296ebf6076e32a89b33f527a474b48d47",
+                        "md5": "f095213968e13ce04b881630ee4940dd"
                     },
                     "required_dependencies": [],
-                    "size": 43903,
-                    "date_published": "2025-08-02T18:45:23.190Z"
+                    "size": 46429,
+                    "date_published": "2025-10-25T09:32:30.140Z"
                 }
             ]
         },
@@ -1765,7 +1765,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "HadEnoughItems_1.12.2-4.29.8.jar",
+                    "file_name": "HadEnoughItems_1.12.2-4.29.9.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -1773,16 +1773,16 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/2iXFLwYO/versions/sXmGWeF6/HadEnoughItems_1.12.2-4.29.8.jar",
-                    "id": "sXmGWeF6",
+                    "url": "https://cdn.modrinth.com/data/2iXFLwYO/versions/OcrXHQ0i/HadEnoughItems_1.12.2-4.29.9.jar",
+                    "id": "OcrXHQ0i",
                     "parent_id": "2iXFLwYO",
                     "hashes": {
-                        "sha512": "ca15f3c10d15eb4ade5c9daef831a0a69c5e9c359c688ff7997b454519a96abcca8b7ebb43e32e7a8f9a1b275704c69525385347824c1bea65a453e82933f40f",
-                        "sha1": "4380cd6ef10897e6acd50d0d69f6776299567ae9"
+                        "sha512": "47a2e9c056497a42f90b1d7b72a4d5b8020d93315d195545cacc65a3b0e0a2b3fac82108be44196366d066e1edf8831fe7e26e4f12b3f7dfd54f5ef8325cc8db",
+                        "sha1": "bce76041bcbcf83e74d0a77f7e3b05516e5f95eb"
                     },
                     "required_dependencies": [],
-                    "size": 783949,
-                    "date_published": "2025-10-02T12:59:46.700902Z"
+                    "size": 784087,
+                    "date_published": "2025-11-02T14:16:17.244260Z"
                 }
             ]
         },
@@ -2180,7 +2180,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "JAOPCA-1.12.2-2.3.14.37.jar",
+                    "file_name": "JAOPCA-1.12.2-2.3.14.38.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -2188,18 +2188,18 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P48mHi2j/versions/gOSf5PKA/JAOPCA-1.12.2-2.3.14.37.jar",
-                    "id": "gOSf5PKA",
+                    "url": "https://cdn.modrinth.com/data/P48mHi2j/versions/TwNNnwOp/JAOPCA-1.12.2-2.3.14.38.jar",
+                    "id": "TwNNnwOp",
                     "parent_id": "P48mHi2j",
                     "hashes": {
-                        "sha512": "c8444f2e77238aac66fe7889a3b894b9bc2a32820ae32f7a57ce67c73578767dc54c2550e064c76757a0b81137238d9a8892939d836e45fbcd621e0ffad271cd",
-                        "sha1": "f6897530d1609c3325ae23548bc29157edf2f23a"
+                        "sha512": "44e534b9f044ff2ce88a83354f9ce3dd154aed55787a6ef066f598c3b4182cd5c7061cd666274af0b7701b51a8c68f0c5901ee1a99ccd13a95cf5a4cd374dbca",
+                        "sha1": "9fd474cfcb520d3bb98cd47c88815da4fa52ba36"
                     },
                     "required_dependencies": [
                         "vlot89Sj"
                     ],
-                    "size": 1044615,
-                    "date_published": "2025-08-12T15:44:41.660125Z"
+                    "size": 1043784,
+                    "date_published": "2025-10-19T12:01:53.916287Z"
                 }
             ]
         },
@@ -4036,7 +4036,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "UniversalTweaks-1.12.2-1.16.0.1.jar",
+                    "file_name": "UniversalTweaks-1.12.2-1.17.0.jar",
                     "mc_versions": [
                         "1.12.2"
                     ],
@@ -4044,19 +4044,19 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/s32LssQX/versions/QJk1lCWh/UniversalTweaks-1.12.2-1.16.0.1.jar",
-                    "id": "QJk1lCWh",
+                    "url": "https://cdn.modrinth.com/data/s32LssQX/versions/s9LIMCwo/UniversalTweaks-1.12.2-1.17.0.jar",
+                    "id": "s9LIMCwo",
                     "parent_id": "s32LssQX",
                     "hashes": {
-                        "sha512": "f12b0f8caf309baacaf16eb3c186f8b0eca8f2de825b1a6d6cd1c4c5530bd44ca0a4f6754111b69a65f63a8b71f4906ae8e38be88dfc814028c34dc12116487a",
-                        "sha1": "16853fa319c3151c4b617f9c022e835420af4147"
+                        "sha512": "fe39bf64ae68354790a852ab2bb43c19cf38f086b183884a3661cbe0dcb49159673ed41a5c8bfd7d8335ed9d7f11f1e59accb34c00af624209adfc998c28e90e",
+                        "sha1": "a0f6d918ade59f2b4eb7b7df5442fb21c1ea4e66"
                     },
                     "required_dependencies": [
-                        "Bnsrfd1o",
-                        "G1ckZuWK"
+                        "G1ckZuWK",
+                        "Bnsrfd1o"
                     ],
-                    "size": 1620478,
-                    "date_published": "2025-09-03T14:27:06.080445Z"
+                    "size": 1684596,
+                    "date_published": "2025-10-27T16:42:14.240943Z"
                 }
             ]
         },
